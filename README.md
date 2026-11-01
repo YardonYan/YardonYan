@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[展览说明 Note](#展览说明--note-on-the-collection) · [展品 Works](#展品--works) · [这一年 Year](#这一年--the-year) · [笔记 Notes](#笔记--notes) · [通道 Elsewhere](#通道--elsewhere)
+[展览说明 Note](#展览说明--note-on-the-collection) · [展品 Works](#展品--works) · [这一年 Year](#这一年--the-year) · [工具 Toolbox](#工具--toolbox) · [通道 Elsewhere](#通道--elsewhere)
 
 </div>
 
@@ -87,32 +87,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/calendar-light.svg">
   <img src="./assets/calendar-light.svg" width="100%" alt="2026 年按月提交记录">
 </picture>
-
-## 笔记 · Notes
-
-**01 这条消息该不该发 · Is This Message Worth Sending**
-
-一个会自己干活的 Agent，最大的风险不是干错，是干得太多、说得太勤。判断标准只有一条：这条消息发出去，人能不能立刻做一个动作。
-
-*The risk with an agent that acts on its own is not that it does the wrong thing. It's that it does too much and says too much. There is only one test: after reading this, can the person do something right away?*
-
-**02 先定字段，再写代码 · Fields Before Code**
-
-先定字段，再写代码。跳过这步，之后每个 bug 都是在补一张没画完的图纸。
-
-*Define the fields, then write the code. Skip it, and every later bug is a patch on a drawing that was never finished.*
-
-**03 演示不算做完了 · A Demo Is Not Done**
-
-演示是给评委看的，产品是给明天早上还要用它的人看的。这两件事的验收标准不一样，混淆了就两头都不讨好。
-
-*A demo is for judges. A product is for whoever has to use it tomorrow morning. They don't share the same bar, and confusing them pleases neither.*
-
-**04 写下来才算学会 · Write It Down or It Didn't Happen**
-
-写下来的才算学会。做完不整理，等于没做。
-
-*If it isn't written down, it wasn't learned. A project you don't write up is a project you didn't do.*
 
 ## 工具 · Toolbox
 
