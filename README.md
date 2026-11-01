@@ -6,11 +6,9 @@
 
 <div align="center">
 
-[展览说明](#note) · [展品](#works) · [笔记](#notes) · [通道](#elsewhere)
+[展览说明](#展览说明--note-on-the-collection) · [展品](#展品--works) · [笔记](#笔记--notes) · [通道](#通道--elsewhere)
 
 </div>
-
-<a id="note"></a>
 
 ## 展览说明 · Note on the Collection
 
@@ -25,8 +23,6 @@
 做这些东西的顺序几乎从不改变：先写清字段、规则和失败之后怎么办，再写第一行代码。跳过这一步省下的时间，后面要用三倍还回去。
 
 *The order rarely changes: write down the fields, the rules, and what happens after a failure — then write the first line of code. Time saved by skipping that step gets repaid three times over.*
-
-<a id="works"></a>
 
 ## 展品 · Works
 
@@ -78,8 +74,6 @@
 
 <sub>`RAG` · `CrewAI` · `LangGraph` · [glimmerai.top](https://glimmerai.top)</sub>
 
-<a id="notes"></a>
-
 ## 笔记 · Notes
 
 **01 关于打扰**
@@ -105,8 +99,6 @@
 写下来的才算学会。做完不整理，等于没做。
 
 *If it isn't written down, it wasn't learned. A project you don't write up is a project you didn't do.*
-
-<a id="elsewhere"></a>
 
 ## 通道 · Elsewhere
 
