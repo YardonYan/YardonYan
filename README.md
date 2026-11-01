@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/YardonYan/markdown-renderer-fix">
-    <img src="https://raw.githubusercontent.com/YardonYan/markdown-renderer-fix/main/assets/hero.png" width="700" alt="markdown-renderer-fix">
+    <img src="./assets/works/markdown-renderer-fix.png" width="700" alt="markdown-renderer-fix">
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/YardonYan/task-skill-orchestrator">
-    <img src="https://raw.githubusercontent.com/YardonYan/task-skill-orchestrator/main/assets/dag-waves.png" width="700" alt="task-skill-orchestrator">
+    <img src="./assets/works/task-skill-orchestrator.png" width="700" alt="task-skill-orchestrator">
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/YardonYan/html-skill-effectiveness">
-    <img src="https://raw.githubusercontent.com/YardonYan/html-skill-effectiveness/main/assets/hero.png" width="700" alt="html-skill-effectiveness">
+    <img src="./assets/works/html-skill-effectiveness.png" width="700" alt="html-skill-effectiveness">
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/YardonYan/for-my-self-skills">
-    <img src="https://raw.githubusercontent.com/YardonYan/for-my-self-skills/main/assets/cover.svg" width="640" alt="for-my-self-skills">
+    <img src="./assets/works/for-my-self-skills.svg" width="640" alt="for-my-self-skills">
   </a>
 </p>
 
