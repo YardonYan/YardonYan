@@ -12,13 +12,13 @@
 
 ## 展览说明 · Note on the Collection
 
-这里收着一批小机器。有的替人核对表格，有的替人写文章，有的只是为了让一段中文在流式输出里不被截成两半。它们被同一个约束塑造：尽量少打扰人。少问、少说、少占屏幕，真需要人的时候只问一个能一句话回答的问题。做这些东西的顺序几乎从不改变，先写清字段、规则和失败之后怎么办，再写第一行代码。跳过这一步省下的时间，后面要用三倍还回去。
+这里挂着几件小玩意。有替人核对表格的，有替人写文章的，也有一件，只为了让一段中文在流式输出里不被拦腰截断。它们出自同一种脾气：能不问就不问，能不说就不说，能把屏幕让出来就让出来。真到了非问不可的时候，也只问一句，一句能答完的话。
 
-*There is a small collection of machines here. Some check spreadsheets so a person doesn't have to, some write, and some exist only to keep a Chinese character from being cut in half mid-stream. All of them are shaped by one constraint: intrude as little as possible. Ask less, say less, take less of the screen, and when a person really is needed, ask one question that can be answered in a single line. The order rarely changes: write down the fields, the rules, and what happens after a failure, then write the first line of code. Time saved by skipping that step gets repaid three times over.*
+*There are a few small things hanging here. One checks spreadsheets so a person doesn't have to. One writes. One exists only to keep a line of Chinese from being cut in half while it streams. They share the same temperament: ask nothing that can go unasked, say nothing that can go unsaid, give back every inch of screen that can be given back. And when a question truly cannot be avoided, ask one that fits in a single line.*
 
-这些东西大多不是从想法开始的，是从一次具体的麻烦开始的。表格又被填错了，某段中文又乱码了，某个工具每天要多点五次。把麻烦记下来，想清楚它为什么会反复发生，再决定要不要造一台机器去处理它。多数时候结论是不值得造，那就把规则写下来，让下一个人别再踩同一个坑。
+它们多半不是从想法里长出来的，是从麻烦里长出来的。表格又被填错了，中文又乱了码，某个工具每天要多点五次。把麻烦记下来，弄明白它为什么一再发生，再决定值不值得为它做一件东西。多数时候结论是不值得，那就把规矩写下来，留给下一个人。
 
-*Most of these did not start as ideas. They started as a specific annoyance: a form filled in wrong again, a paragraph of Chinese turned to garbage again, a tool that costs five extra clicks every day. Write the annoyance down, work out why it keeps happening, then decide whether a machine is worth building. Most of the time the answer is no, and the rule gets written down instead, so the next person doesn't fall into the same hole.*
+*Most of them did not grow out of an idea. They grew out of an annoyance. The form was filled in wrong again, the Chinese came out garbled again, some tool cost five extra clicks every day. Write the annoyance down, work out why it keeps coming back, then decide whether it deserves a thing built for it. Most of the time it doesn't, and the rule gets written down instead, left for whoever comes next.*
 
 ## 展品 · Works
 
