@@ -23,6 +23,18 @@
 ## 展品 · Works
 
 <p align="center">
+  <a href="https://github.com/YardonYan/for-my-self-skills">
+    <img src="./assets/works/for-my-self-skills.png" width="640" alt="for-my-self-skills">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅰ · for-my-self-skills</b><br>
+<sub>十八件工具，装订成一册。从单页生成到任务编排，都在日常使用。</sub><br>
+<sub><i>Eighteen tools, bound into one volume.</i></sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/YardonYan/markdown-renderer-fix">
     <img src="./assets/works/markdown-renderer-fix.png" width="700" alt="markdown-renderer-fix">
   </a>
@@ -59,27 +71,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YardonYan/for-my-self-skills">
-    <img src="./assets/works/for-my-self-skills.svg" width="640" alt="for-my-self-skills">
-  </a>
-</p>
-
-<p align="center">
-<b>Ⅰ · for-my-self-skills</b><br>
-<sub>十八件工具，装订成一册。从单页生成到任务编排，都在日常使用。</sub><br>
-<sub><i>Eighteen tools, bound into one volume.</i></sub>
-</p>
-
-<p align="center">
-<b>Ⅴ · daily-log</b> · <a href="https://github.com/YardonYan/daily-log">仓库</a><br>
+<b>Ⅴ · daily-log</b> · <a href="https://github.com/YardonYan/daily-log">仓库 Repo</a><br>
 <sub>每天的流水账。不是精选集，只是一直在写。</sub><br>
-<sub><i>A running log. Not a curated collection — just one that keeps running.</i></sub>
+<sub><i>A running log. Not a curated collection, just one that keeps running.</i></sub>
 </p>
 
 <p align="center">
-<b>Ⅵ · 馆外 / Off-site</b> · <a href="https://glimmerai.top">glimmerai.top</a><br>
+<b>Ⅵ · 馆外 Off-site</b> · <a href="https://glimmerai.top">glimmerai.top</a><br>
 <sub>五个在公网跑着的实验：文档检索问答、多智能体协作、代码体检、项目助手、参数调参台。</sub><br>
-<sub><i>Five experiments running in public — retrieval, multi-agent collaboration, code checkup, a project assistant, a tuning bench.</i></sub>
+<sub><i>Five experiments running in public: retrieval, multi-agent collaboration, code checkup, a project assistant, a tuning bench.</i></sub>
 </p>
 
 ## 这一年 · The Year
@@ -149,9 +149,9 @@
 ## 通道 · Elsewhere
 
 <p align="center">
-  <a href="https://glimmerai.top"><img src="https://img.shields.io/badge/glimmerai.top-8B5E34?style=flat-square&logo=firefox-browser&logoColor=FFE7BE&label=站点" alt="站点"></a>
-  <a href="https://github.com/YardonYan"><img src="https://img.shields.io/badge/YardonYan-2C2C2A?style=flat-square&logo=github&logoColor=white&label=GitHub" alt="GitHub"></a>
-  <a href="https://github.com/YardonYan/for-my-self-skills"><img src="https://img.shields.io/badge/18%20skills-C0A276?style=flat-square&logo=bookstack&logoColor=3E2418&label=合集" alt="合集"></a>
+  <a href="https://glimmerai.top"><img src="https://img.shields.io/badge/glimmerai.top-8B5E34?style=flat-square&logo=firefox-browser&logoColor=FFE7BE&label=%E7%AB%99%E7%82%B9%20Site" alt="站点"></a>&nbsp;
+  <a href="https://github.com/YardonYan"><img src="https://img.shields.io/badge/YardonYan-2C2C2A?style=flat-square&logo=github&logoColor=white&label=GitHub" alt="GitHub"></a>&nbsp;
+  <a href="https://github.com/YardonYan/for-my-self-skills"><img src="https://img.shields.io/badge/18%20skills-C0A276?style=flat-square&logo=bookstack&logoColor=3E2418&label=%E5%90%88%E9%9B%86%20Set" alt="合集"></a>
 </p>
 
 <p align="center">
@@ -164,3 +164,4 @@
 <div align="center">
 <sub>代码如诗，逻辑如词。</sub>
 </div>
+
