@@ -22,59 +22,65 @@
 
 ## 展品 · Works
 
-**Ⅰ**
-### [for-my-self-skills](https://github.com/YardonYan/for-my-self-skills)
+<p align="center">
+  <a href="https://github.com/YardonYan/markdown-renderer-fix">
+    <img src="https://raw.githubusercontent.com/YardonYan/markdown-renderer-fix/main/assets/hero.png" width="700" alt="markdown-renderer-fix">
+  </a>
+</p>
 
-十八件工具，装订成一册。从单页生成到任务编排，都在日常使用。
+<p align="center">
+<b>Ⅱ · markdown-renderer-fix</b><br>
+<sub>专治中文在流式输出里被截断的毛病。没人愿意碰这类问题，但每个人都在遇到。</sub><br>
+<sub><i>For the specific misery of Chinese text sliced in half by streaming output.</i></sub>
+</p>
 
-*Eighteen tools, bound into one volume. From single-page generation to task orchestration, all in daily use.*
+<p align="center">
+  <a href="https://github.com/YardonYan/task-skill-orchestrator">
+    <img src="https://raw.githubusercontent.com/YardonYan/task-skill-orchestrator/main/assets/dag-waves.png" width="700" alt="task-skill-orchestrator">
+  </a>
+</p>
 
-<sub>`Agent Skills` · `双语` · `Apache-2.0`</sub>
+<p align="center">
+<b>Ⅲ · task-skill-orchestrator</b><br>
+<sub>把复杂任务拆成依赖图，按波次派给多个执行者，最后收口。一个 Agent 什么都干，结局通常是上下文爆炸。</sub><br>
+<sub><i>Complex tasks as a dependency graph, dispatched in waves, then merged.</i></sub>
+</p>
 
-**Ⅱ**
-### [markdown-renderer-fix](https://github.com/YardonYan/markdown-renderer-fix)
+<p align="center">
+  <a href="https://github.com/YardonYan/html-skill-effectiveness">
+    <img src="https://raw.githubusercontent.com/YardonYan/html-skill-effectiveness/main/assets/hero.png" width="700" alt="html-skill-effectiveness">
+  </a>
+</p>
 
-专治中文在流式输出里被截断的毛病。这类问题没人愿意碰，但每个人都在遇到。
+<p align="center">
+<b>Ⅳ · html-skill-effectiveness</b><br>
+<sub>零依赖的单页，十三种版式，一个五维评审的回路。目标是打开就能看，不用装任何东西。</sub><br>
+<sub><i>Single pages with zero dependencies. Open and it works.</i></sub>
+</p>
 
-*For the specific misery of Chinese text sliced in half by streaming output. Nobody wants to work on this. Everybody runs into it.*
+<p align="center">
+  <a href="https://github.com/YardonYan/for-my-self-skills">
+    <img src="https://raw.githubusercontent.com/YardonYan/for-my-self-skills/main/assets/cover.svg" width="640" alt="for-my-self-skills">
+  </a>
+</p>
 
-<sub>`SSE` · `渲染` · `国际化`</sub>
+<p align="center">
+<b>Ⅰ · for-my-self-skills</b><br>
+<sub>十八件工具，装订成一册。从单页生成到任务编排，都在日常使用。</sub><br>
+<sub><i>Eighteen tools, bound into one volume.</i></sub>
+</p>
 
-**Ⅲ**
-### [task-skill-orchestrator](https://github.com/YardonYan/task-skill-orchestrator)
+<p align="center">
+<b>Ⅴ · daily-log</b> · <a href="https://github.com/YardonYan/daily-log">仓库</a><br>
+<sub>每天的流水账。不是精选集，只是一直在写。</sub><br>
+<sub><i>A running log. Not a curated collection — just one that keeps running.</i></sub>
+</p>
 
-把复杂任务拆成依赖图，按波次派给多个执行者，最后收口。一个 Agent 什么都干，结局通常是上下文爆炸。
-
-*Complex tasks as a dependency graph, dispatched in waves to separate executors, then merged. When one agent does everything, the ending is usually a blown context window.*
-
-<sub>`DAG` · `多智能体`</sub>
-
-**Ⅳ**
-### [html-skill-effectiveness](https://github.com/YardonYan/html-skill-effectiveness)
-
-零依赖的单页。十三种版式，一个五维评审的回路。目标是打开就能看，不用装任何东西。
-
-*Single pages with zero dependencies. Thirteen layouts and a five-dimension critique loop. The goal is that it opens and it works, with nothing to install.*
-
-<sub>`HTML` · `版式`</sub>
-
-**Ⅴ**
-### [daily-log](https://github.com/YardonYan/daily-log)
-
-每天的流水账。不是精选集，只是一直在写。
-
-*A running log. Not a curated collection — just one that keeps running.*
-
-<sub>`笔记` · `片段`</sub>
-
-**Ⅵ · 馆外**
-### [五个在公网运行的实验](https://glimmerai.top)
-
-文档检索问答、多智能体协作、代码体检、项目助手、参数调参台。都不在 GitHub 上，在站点里跑着。
-
-*Retrieval over documents, multi-agent collaboration, code checkup, a project assistant, a tuning bench. None of them live on GitHub. They run at the site.*
-
-<sub>`RAG` · `CrewAI` · `LangGraph` · [glimmerai.top](https://glimmerai.top)</sub>
+<p align="center">
+<b>Ⅵ · 馆外 / Off-site</b> · <a href="https://glimmerai.top">glimmerai.top</a><br>
+<sub>五个在公网跑着的实验：文档检索问答、多智能体协作、代码体检、项目助手、参数调参台。</sub><br>
+<sub><i>Five experiments running in public — retrieval, multi-agent collaboration, code checkup, a project assistant, a tuning bench.</i></sub>
+</p>
 
 ## 这一年 · The Year
 
@@ -142,10 +148,15 @@
 
 ## 通道 · Elsewhere
 
-<p>
-  <a href="https://glimmerai.top"><img src="https://img.shields.io/badge/站点-glimmerai.top-8B5E34?style=for-the-badge&logo=firefox&logoColor=FFD9A0" alt="站点" /></a>
-  <a href="https://github.com/YardonYan"><img src="https://img.shields.io/badge/GitHub-YardonYan-2C2C2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/YardonYan/for-my-self-skills"><img src="https://img.shields.io/badge/合集-18%20Skills-C0A276?style=for-the-badge&logo=bookstack&logoColor=3E2418" alt="技能合集" /></a>
+<p align="center">
+  <a href="https://glimmerai.top"><img src="https://img.shields.io/badge/glimmerai.top-8B5E34?style=flat-square&logo=firefox-browser&logoColor=FFE7BE&label=站点" alt="站点"></a>
+  <a href="https://github.com/YardonYan"><img src="https://img.shields.io/badge/YardonYan-2C2C2A?style=flat-square&logo=github&logoColor=white&label=GitHub" alt="GitHub"></a>
+  <a href="https://github.com/YardonYan/for-my-self-skills"><img src="https://img.shields.io/badge/18%20skills-C0A276?style=flat-square&logo=bookstack&logoColor=3E2418&label=合集" alt="合集"></a>
+</p>
+
+<p align="center">
+<sub>站点放着五个能点的实验，GitHub 上是一个十八件工具的合集，两边都在更新。</sub><br>
+<sub><i>The site holds five working experiments; GitHub holds the eighteen-tool collection. Both stay current.</i></sub>
 </p>
 
 <br>
