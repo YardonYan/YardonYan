@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Yardon — 代码如诗，逻辑如词">
+  <img src="./assets/hero-light.svg" width="100%" alt="Yardon_Official — 代码如诗，逻辑如词">
 </picture>
 
 <div align="center">
 
-[展览说明](#展览说明--note-on-the-collection) · [展品](#展品--works) · [笔记](#笔记--notes) · [通道](#通道--elsewhere)
+[展览说明](#展览说明--note-on-the-collection) · [展品](#展品--works) · [这一年](#这一年--the-year) · [笔记](#笔记--notes) · [通道](#通道--elsewhere)
 
 </div>
 
@@ -76,6 +76,18 @@
 
 <sub>`RAG` · `CrewAI` · `LangGraph` · [glimmerai.top](https://glimmerai.top)</sub>
 
+## 这一年 · The Year
+
+按月份拆开的提交记录，每一格是一天。格子越深，那天写得越多；右上角一点是二十四节气，左下角一点是节日，橙色边框是今天。
+
+*The year split into months, one cell per day. The darker the cell, the more got done that day. A dot at the top right marks a solar term, a dot at the bottom left marks a festival, and the orange outline is today.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/calendar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/calendar-light.svg">
+  <img src="./assets/calendar-light.svg" width="100%" alt="2026 年按月提交记录">
+</picture>
+
 ## 笔记 · Notes
 
 **01 关于打扰**
@@ -102,13 +114,29 @@
 
 *If it isn't written down, it wasn't learned. A project you don't write up is a project you didn't do.*
 
+## 工具 · Toolbox
+
+<sub>日常在用的语言与框架</sub>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,kotlin&perline=6" height="42" alt="Languages: Rust, TypeScript, JavaScript, Python, Java, Kotlin" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,svelte,tailwind,vite&perline=6" height="42" alt="Frontend: Vue, React, Next.js, Svelte, Tailwind, Vite" />
+</p>
+
+<sub>后端、桌面与基础设施</sub>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,tauri,electron&perline=6" height="42" alt="Backend: Node.js, FastAPI, Flask, Express, Tauri, Electron" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,nginx&perline=6" height="42" alt="Tools: Git, GitHub, Docker, Linux, Bash, Nginx" />
+</p>
+
 ## 通道 · Elsewhere
 
-| | |
-|---|---|
-| 站点 Site | [glimmerai.top](https://glimmerai.top) |
-| 代码 Code | [github.com/YardonYan](https://github.com/YardonYan) |
-| 合集 Collection | [for-my-self-skills](https://github.com/YardonYan/for-my-self-skills) |
+<p>
+  <a href="https://glimmerai.top"><img src="https://img.shields.io/badge/站点-glimmerai.top-8B5E34?style=for-the-badge&logo=firefox&logoColor=FFD9A0" alt="站点" /></a>
+  <a href="https://github.com/YardonYan"><img src="https://img.shields.io/badge/GitHub-YardonYan-2C2C2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/YardonYan/for-my-self-skills"><img src="https://img.shields.io/badge/合集-18%20Skills-C0A276?style=for-the-badge&logo=bookstack&logoColor=3E2418" alt="技能合集" /></a>
+</p>
 
 <br>
 
