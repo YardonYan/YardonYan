@@ -65,13 +65,7 @@
 </p>
 
 <p align="center">
-<b>Ⅴ · daily-log</b> · <a href="https://github.com/YardonYan/daily-log">仓库 Repo</a><br>
-<sub>每天的流水账。不是精选集，只是一直在写。</sub><br>
-<sub><i>A running log. Not a curated collection, just one that keeps running.</i></sub>
-</p>
-
-<p align="center">
-<b>Ⅵ · 馆外 Off-site</b> · <a href="https://glimmerai.top">glimmerai.top</a><br>
+<b>Ⅴ · 馆外 Off-site</b> · <a href="https://glimmerai.top">glimmerai.top</a><br>
 <sub>五个在公网跑着的实验：文档检索问答、多智能体协作、代码体检、项目助手、参数调参台。</sub><br>
 <sub><i>Five experiments running in public: retrieval, multi-agent collaboration, code checkup, a project assistant, a tuning bench.</i></sub>
 </p>
