@@ -137,7 +137,7 @@
 </p>
 
 <p align="center">
-<kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd>&nbsp; <kbd>Rust</kbd>&nbsp; <kbd>FastAPI</kbd>&nbsp; <kbd>pgvector</kbd>&nbsp; <kbd>飞书 Feishu</kbd>&nbsp; <kbd>企业微信</kbd>
+<kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd>&nbsp; <kbd>Rust</kbd>&nbsp; <kbd>FastAPI</kbd>&nbsp; <kbd>pgvector</kbd>&nbsp; <kbd>Feishu</kbd>&nbsp; <kbd>WeCom</kbd>
 </p>
 
 ## 通道 · Elsewhere
