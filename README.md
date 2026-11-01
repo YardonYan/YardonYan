@@ -116,18 +116,28 @@
 
 ## 工具 · Toolbox
 
-<sub>日常在用的语言与框架</sub>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,kotlin&perline=6" height="42" alt="Languages: Rust, TypeScript, JavaScript, Python, Java, Kotlin" />
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,svelte,tailwind,vite&perline=6" height="42" alt="Frontend: Vue, React, Next.js, Svelte, Tailwind, Vite" />
+<p align="center">
+<sub>AGENT 框架与运行时 / AGENT RUNTIMES</sub>
 </p>
 
-<sub>后端、桌面与基础设施</sub>
+<p align="center">
+<kbd>DeepSeek Harness</kbd>&nbsp; <kbd>Super Agent</kbd>&nbsp; <kbd>OpenClaw</kbd>&nbsp; <kbd>CrewAI</kbd>&nbsp; <kbd>LangGraph</kbd>&nbsp; <kbd>MCP</kbd>
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,express,tauri,electron&perline=6" height="42" alt="Backend: Node.js, FastAPI, Flask, Express, Tauri, Electron" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,nginx&perline=6" height="42" alt="Tools: Git, GitHub, Docker, Linux, Bash, Nginx" />
+<p align="center">
+<sub>编码工具 / CODING AGENTS</sub>
+</p>
+
+<p align="center">
+<kbd>Claude Code</kbd>&nbsp; <kbd>Codex</kbd>&nbsp; <kbd>Cursor</kbd>&nbsp; <kbd>WorkBuddy</kbd>&nbsp; <kbd>CodeBuddy</kbd>&nbsp; <kbd>Qoder</kbd>&nbsp; <kbd>TRAE</kbd>
+</p>
+
+<p align="center">
+<sub>语言与接口 / LANGUAGE &amp; INTERFACE</sub>
+</p>
+
+<p align="center">
+<kbd>Python</kbd>&nbsp; <kbd>TypeScript</kbd>&nbsp; <kbd>Rust</kbd>&nbsp; <kbd>FastAPI</kbd>&nbsp; <kbd>pgvector</kbd>&nbsp; <kbd>飞书 Feishu</kbd>&nbsp; <kbd>企业微信</kbd>
 </p>
 
 ## 通道 · Elsewhere
