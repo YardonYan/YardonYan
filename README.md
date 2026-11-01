@@ -1,0 +1,123 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="A private collection — 代码如诗，逻辑如词">
+</picture>
+
+<div align="center">
+
+[展览说明](#note) · [展品](#works) · [笔记](#notes) · [通道](#elsewhere)
+
+</div>
+
+<a id="note"></a>
+
+## 展览说明 · Note on the Collection
+
+这里收着一批小机器。有的替人核对表格，有的替人写文章，有的只是为了让一段中文在流式输出里不被截成两半。
+
+*There is a small collection of machines here. Some check spreadsheets so a person doesn't have to. Some write. Some exist for a narrower reason: to keep a Chinese character from being cut in half mid-stream.*
+
+它们被同一个约束塑造：尽量少打扰人。少问、少说、少占屏幕。真需要人的时候，只问一个能一句话回答的问题。
+
+*They are shaped by one constraint: intrude as little as possible. Fewer questions, fewer messages, fewer things on screen. When a person really is needed, ask one question that can be answered in a single line.*
+
+做这些东西的顺序几乎从不改变：先写清字段、规则和失败之后怎么办，再写第一行代码。跳过这一步省下的时间，后面要用三倍还回去。
+
+*The order rarely changes: write down the fields, the rules, and what happens after a failure — then write the first line of code. Time saved by skipping that step gets repaid three times over.*
+
+<a id="works"></a>
+
+## 展品 · Works
+
+### Ⅰ · [for-my-self-skills](https://github.com/YardonYan/for-my-self-skills)
+
+十八件工具，装订成一册。从单页生成到任务编排，都在日常使用。
+
+*Eighteen tools, bound into one volume. From single-page generation to task orchestration, all in daily use.*
+
+<sub>`Agent Skills` · `双语` · `Apache-2.0`</sub>
+
+### Ⅱ · [markdown-renderer-fix](https://github.com/YardonYan/markdown-renderer-fix)
+
+专治中文在流式输出里被截断的毛病。这类问题没人愿意碰，但每个人都在遇到。
+
+*For the specific misery of Chinese text sliced in half by streaming output. Nobody wants to work on this. Everybody runs into it.*
+
+<sub>`SSE` · `渲染` · `国际化`</sub>
+
+### Ⅲ · [task-skill-orchestrator](https://github.com/YardonYan/task-skill-orchestrator)
+
+把复杂任务拆成依赖图，按波次派给多个执行者，最后收口。一个 Agent 什么都干，结局通常是上下文爆炸。
+
+*Complex tasks as a dependency graph, dispatched in waves to separate executors, then merged. When one agent does everything, the ending is usually a blown context window.*
+
+<sub>`DAG` · `多智能体`</sub>
+
+### Ⅳ · [html-skill-effectiveness](https://github.com/YardonYan/html-skill-effectiveness)
+
+零依赖的单页。十三种版式，一个五维评审的回路。目标是打开就能看，不用装任何东西。
+
+*Single pages with zero dependencies. Thirteen layouts and a five-dimension critique loop. The goal is that it opens and it works, with nothing to install.*
+
+<sub>`HTML` · `版式`</sub>
+
+### Ⅴ · [daily-log](https://github.com/YardonYan/daily-log)
+
+每天的流水账。不是精选集，只是一直在写。
+
+*A running log. Not a curated collection — just one that keeps running.*
+
+<sub>`笔记` · `片段`</sub>
+
+### Ⅵ · [五个在公网运行的实验](https://glimmerai.top)
+
+文档检索问答、多智能体协作、代码体检、项目助手、参数调参台。都不在 GitHub 上，在站点里跑着。
+
+*Retrieval over documents, multi-agent collaboration, code checkup, a project assistant, a tuning bench. None of them live on GitHub. They run at the site.*
+
+<sub>`RAG` · `CrewAI` · `LangGraph` · [glimmerai.top](https://glimmerai.top)</sub>
+
+<a id="notes"></a>
+
+## 笔记 · Notes
+
+**01 关于打扰**
+
+一个会自己干活的 Agent，最大的风险不是干错，是干得太多、说得太勤。
+
+*The risk with an agent that acts on its own is not that it does the wrong thing. It's that it does too much and says too much.*
+
+**02 关于顺序**
+
+先定字段，再写代码。跳过这步，之后每个 bug 都是在补一张没画完的图纸。
+
+*Define the fields, then write the code. Skip it, and every later bug is a patch on a drawing that was never finished.*
+
+**03 关于完成**
+
+演示是给评委看的，产品是给明天早上还要用它的人看的。
+
+*A demo is for judges. A product is for whoever has to use it tomorrow morning.*
+
+**04 关于记录**
+
+写下来的才算学会。做完不整理，等于没做。
+
+*If it isn't written down, it wasn't learned. A project you don't write up is a project you didn't do.*
+
+<a id="elsewhere"></a>
+
+## 通道 · Elsewhere
+
+| | |
+|---|---|
+| 站点 Site | [glimmerai.top](https://glimmerai.top) |
+| 代码 Code | [github.com/YardonYan](https://github.com/YardonYan) |
+| 合集 Collection | [for-my-self-skills](https://github.com/YardonYan/for-my-self-skills) |
+
+<br>
+
+<div align="center">
+<sub>代码如诗，逻辑如词。</sub>
+</div>
