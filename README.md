@@ -114,8 +114,8 @@
 
 <p align="center">
 <b>Ⅷ · office-ai-workflow</b><br>
-<sub>五步办公流水线：查资料、读文件、理流程、做表格、写汇报。上一步的产出是下一步的原料，人只核对关键数字与结论。</sub><br>
-<sub><i>Five office tasks chained into one pipeline. Each step hands over a concrete artifact; a person only checks the numbers and the conclusion.</i></sub>
+<sub>办公工作流的设计与实现：七步，从定义任务到复核交付。也教你改造现有的流程，并把流程写成别人能用的文档。</sub><br>
+<sub><i>Design an office pipeline and run it: seven steps from framing the task to reviewing the output, plus how to rework what you already do and write it down for others.</i></sub>
 </p>
 
 ## 这一年 · The Year
