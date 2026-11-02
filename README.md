@@ -106,6 +106,18 @@
 <sub><i>Five experiments running in public: retrieval, multi-agent collaboration, code checkup, a project assistant, a tuning bench.</i></sub>
 </p>
 
+<p align="center">
+  <a href="https://github.com/YardonYan/office-ai-workflow">
+    <img src="./assets/works/office-ai-workflow.svg" width="700" alt="office-ai-workflow">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅷ · office-ai-workflow</b><br>
+<sub>五步办公流水线：查资料、读文件、理流程、做表格、写汇报。上一步的产出是下一步的原料，人只核对关键数字与结论。</sub><br>
+<sub><i>Five office tasks chained into one pipeline. Each step hands over a concrete artifact; a person only checks the numbers and the conclusion.</i></sub>
+</p>
+
 ## 这一年 · The Year
 
 最近两个月的提交记录，每一格是一天。格子越深，那天写得越多；格子里的小字是农历、节气或节日，橙色边框是今天。
