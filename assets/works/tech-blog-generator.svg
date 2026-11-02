@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="336" viewBox="0 0 900 336" role="img">
+
+<rect width="900" height="336" fill="#FBF7EE"/>
+<text x="60" y="56" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="27" font-weight="600" fill="#1C1917">tech-blog-generator</text>
+<text x="60" y="84" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="14" fill="#78716C">把代码和文档，变成读得下去的技术博客</text>
+<text x="60" y="103" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="10.5" fill="#A8A29E">21 rules, 6 genres, 3 passes before delivery.</text>
+<g transform="translate(56,184) rotate(-6)">
+<rect x="3" y="4" width="196" height="132" rx="4" fill="#1C1917" fill-opacity=".06"/>
+<rect width="196" height="132" rx="4" fill="#FFFFFF" stroke="#E7DFD0" stroke-width="1"/>
+<text x="14" y="23" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="9.5" fill="#78716C">main.go</text>
+<line x1="14" y1="31" x2="182" y2="31" stroke="#E7DFD0" stroke-width="1"/>
+<rect x="14" y="43" width="102" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="57" width="72" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="71" width="126" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="85" width="88" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="99" width="58" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+</g>
+<g transform="translate(74,172) rotate(-2)">
+<rect x="3" y="4" width="196" height="132" rx="4" fill="#1C1917" fill-opacity=".06"/>
+<rect width="196" height="132" rx="4" fill="#FFFFFF" stroke="#E7DFD0" stroke-width="1"/>
+<text x="14" y="23" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="9.5" fill="#78716C">worker.go</text>
+<line x1="14" y1="31" x2="182" y2="31" stroke="#E7DFD0" stroke-width="1"/>
+<rect x="14" y="43" width="102" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="57" width="72" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="71" width="126" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="85" width="88" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+</g>
+<g transform="translate(92,160) rotate(1)">
+<rect x="3" y="4" width="196" height="132" rx="4" fill="#1C1917" fill-opacity=".06"/>
+<rect width="196" height="132" rx="4" fill="#FFFFFF" stroke="#E7DFD0" stroke-width="1"/>
+<text x="14" y="23" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="9.5" fill="#78716C">design.md</text>
+<line x1="14" y1="31" x2="182" y2="31" stroke="#E7DFD0" stroke-width="1"/>
+<rect x="14" y="43" width="102" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="57" width="72" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="71" width="126" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="85" width="88" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+<rect x="14" y="99" width="58" height="4" rx="2" fill="#1C1917" fill-opacity=".14"/>
+</g>
+<rect x="336" y="158" width="176" height="150" rx="5" fill="none" stroke="#1C1917" stroke-opacity=".16" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="356" y="194" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#1C1917">21</text>
+<text x="400" y="192" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="11.5" fill="#78716C">写作规则</text>
+<line x1="356" y1="209" x2="492" y2="209" stroke="#1C1917" stroke-opacity=".1" stroke-width="1"/>
+<text x="356" y="239" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#1C1917">6</text>
+<text x="400" y="237" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="11.5" fill="#78716C">文体模板</text>
+<line x1="356" y1="254" x2="492" y2="254" stroke="#1C1917" stroke-opacity=".1" stroke-width="1"/>
+<text x="356" y="284" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="22" font-weight="600" fill="#1C1917">3</text>
+<text x="400" y="282" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="11.5" fill="#78716C">自审遍数</text>
+<rect x="555" y="158" width="296" height="158" rx="4" fill="#1C1917" fill-opacity=".06"/>
+<rect x="552" y="154" width="296" height="158" rx="4" fill="#FFFFFF" stroke="#E7DFD0" stroke-width="1"/>
+<text x="574" y="186" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="13" font-weight="600" fill="#1C1917">缓冲 Channel 如何实现天然背压</text>
+<text x="574" y="203" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1" fill="#A8A29E">DEEP DIVE · 8 MIN</text>
+<rect x="574" y="220" width="228" height="3.6" rx="1.8" fill="#1C1917" fill-opacity=".13"/>
+<rect x="574" y="232" width="210" height="3.6" rx="1.8" fill="#1C1917" fill-opacity=".13"/>
+<rect x="574" y="244" width="180" height="3.6" rx="1.8" fill="#1C1917" fill-opacity=".13"/>
+<rect x="574" y="266" width="2.6" height="32" fill="#065F46" fill-opacity=".5"/>
+<rect x="584" y="270" width="182" height="3.6" rx="1.8" fill="#1C1917" fill-opacity=".1"/>
+<rect x="584" y="282" width="142" height="3.6" rx="1.8" fill="#1C1917" fill-opacity=".1"/>
+<ellipse cx="750" cy="181" rx="25" ry="13" transform="rotate(-7 750 181)" fill="none" stroke="#B91C1C" stroke-width="1.5" stroke-opacity=".7"/>
+<path d="M814 286 l6 7 l12 -16" fill="none" stroke="#B91C1C" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".7"/>
+<text x="60" y="328" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, system-ui, sans-serif" font-size="10.5" fill="#A8A29E">原料可以是代码、文档、一次复盘；成稿只有一种标准——读者读完能自己动手。</text>
+</svg>

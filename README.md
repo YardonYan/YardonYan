@@ -23,9 +23,15 @@
 ## 展品 · Works
 
 <p align="center">
-<b>Ⅰ · for-my-self-skills</b> · <a href="https://github.com/YardonYan/for-my-self-skills">仓库 Repo</a><br>
+  <a href="https://github.com/YardonYan/for-my-self-skills">
+    <img src="./assets/works/for-my-self-skills.svg" width="700" alt="for-my-self-skills">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅰ · for-my-self-skills</b><br>
 <sub>十八件工具，装订成一册。从单页生成到任务编排，都在日常使用。</sub><br>
-<sub><i>Eighteen tools, bound into one volume.</i></sub>
+<sub><i>Eighteen tools, bound into one volume — single pages to task orchestration, all in daily use.</i></sub>
 </p>
 
 <p align="center">
@@ -65,7 +71,37 @@
 </p>
 
 <p align="center">
-<b>Ⅴ · 馆外 Off-site</b> · <a href="https://glimmerai.top">glimmerai.top</a><br>
+  <a href="https://github.com/YardonYan/mobile-design-spec">
+    <img src="./assets/works/mobile-design-spec.svg" width="700" alt="mobile-design-spec">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅴ · mobile-design-spec</b><br>
+<sub>五套平台的尺寸规范，压成一条能查的线。改一个 padding，也说得清依据。</sub><br>
+<sub><i>Five sizing systems on one ruler. Every pixel fixed comes with a source.</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YardonYan/tech-blog-generator">
+    <img src="./assets/works/tech-blog-generator.svg" width="700" alt="tech-blog-generator">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅵ · tech-blog-generator</b><br>
+<sub>把代码和文档推进去，出来一篇能读完的文章。二十一条规则管着它，别写成说明书。</sub><br>
+<sub><i>Code and docs in, a post people actually finish. Twenty-one rules keep it from reading like a manual.</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://glimmerai.top">
+    <img src="./assets/works/off-site.svg" width="700" alt="馆外 Off-site">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅶ · 馆外 Off-site</b><br>
 <sub>五个在公网跑着的实验：文档检索问答、多智能体协作、代码体检、项目助手、参数调参台。</sub><br>
 <sub><i>Five experiments running in public: retrieval, multi-agent collaboration, code checkup, a project assistant, a tuning bench.</i></sub>
 </p>
