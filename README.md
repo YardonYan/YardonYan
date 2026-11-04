@@ -118,6 +118,18 @@
 <sub><i>Design an office pipeline and run it: seven steps from framing the task to reviewing the output, plus how to rework what you already do and write it down for others.</i></sub>
 </p>
 
+<p align="center">
+  <a href="https://github.com/YardonYan/dsh-plugin-netease-lyrics">
+    <img src="./assets/works/dsh-plugin-netease-lyrics.svg" width="700" alt="dsh-plugin-netease-lyrics">
+  </a>
+</p>
+
+<p align="center">
+<b>Ⅸ · dsh-plugin-netease-lyrics</b><br>
+<sub>网易云在放什么，状态行右边就接一句。同字体、同字号、同颜色——看起来只是那句话有点长。</sub><br>
+<sub><i>Whatever the player is playing, one line joins the status text. Same font, same size, same colour: it merely looks like a longer sentence.</i></sub>
+</p>
+
 ## 这一年 · The Year
 
 最近两个月的提交记录，每一格是一天。格子越深，那天写得越多；格子里的小字是农历、节气或节日，橙色边框是今天。
