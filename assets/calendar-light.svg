@@ -1,7 +1,7 @@
 <svg width="900" height="566" viewBox="0 0 900 566" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="contributions calendar">
   <rect width="900" height="566" fill="#FFFFFF"/>
   <text x="44" y="46" font-family="Georgia, 'Songti SC', 'SimSun', serif" font-size="23" fill="#2B2F2A">2026</text>
-  <text x="106" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.6" fill="#8A8271">351 CONTRIBUTIONS · 22 ACTIVE DAYS</text>
+  <text x="106" y="46" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.6" fill="#8A8271">357 CONTRIBUTIONS · 23 ACTIVE DAYS</text>
   <circle cx="600" cy="40" r="3.4" fill="#8E7650"/>
   <text x="610" y="44" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8A8271">节气 Solar term</text>
   <circle cx="724" cy="40" r="3.4" fill="#A33A2A"/>
@@ -217,13 +217,13 @@
   <rect x="637" y="159" width="52" height="52" rx="4" fill="#9B7C4C"/>
   <text x="663.0" y="180" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#FFF8EC">5</text>
   <text x="663.0" y="197" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="9" fill="#FFF8EC" opacity="0.85">廿七</text>
-  <rect x="690.55" y="157.55" width="54.9" height="54.9" rx="5.45" fill="none" stroke="#B45309" stroke-width="1.0"/>
   <rect x="692" y="159" width="52" height="52" rx="4" fill="#9B7C4C"/>
   <text x="718.0" y="180" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#FFF8EC">6</text>
   <text x="718.0" y="197" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="9" fill="#FFF8EC" opacity="0.85">廿八</text>
-  <rect x="747" y="159" width="52" height="52" rx="4" fill="#F5F1E6"/>
-  <text x="773.0" y="180" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#2B2F2A">7</text>
-  <text x="773.0" y="197" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="9" fill="#8E7650">立冬</text>
+  <rect x="745.55" y="157.55" width="54.9" height="54.9" rx="5.45" fill="none" stroke="#B45309" stroke-width="1.0"/>
+  <rect x="747" y="159" width="52" height="52" rx="4" fill="#9B7C4C"/>
+  <text x="773.0" y="180" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#FFF8EC">7</text>
+  <text x="773.0" y="197" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="9" fill="#FFF8EC" opacity="0.85">立冬</text>
   <rect x="802" y="159" width="52" height="52" rx="4" fill="#F5F1E6"/>
   <text x="828.0" y="180" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#2B2F2A">8</text>
   <text x="828.0" y="197" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="9" fill="#8A8271">三十</text>
@@ -293,7 +293,7 @@
   <rect x="472" y="379" width="52" height="52" rx="4" fill="#F5F1E6"/>
   <text x="498.0" y="400" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#2B2F2A">30</text>
   <text x="498.0" y="417" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="9" fill="#8A8271">廿二</text>
-  <text x="472" y="484" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#8A8271">97 COMMITS</text>
+  <text x="472" y="484" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1" fill="#8A8271">103 COMMITS</text>
   <text x="44" y="524" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="11" fill="#8A8271">格子颜色越深，当天提交越多。橙色边框是今天。</text>
   <text x="44" y="540" font-family="Georgia, 'Songti SC', 'SimSun', serif" font-size="10.5" font-style="italic" fill="#8A8271">The darker the cell, the more was done that day. The orange outline is today.</text>
   <text x="742" y="539" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="10.5" fill="#8A8271">少</text>
