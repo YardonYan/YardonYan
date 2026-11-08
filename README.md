@@ -132,9 +132,9 @@
 
 ## 这一年 · The Year
 
-最近两个月的提交记录，每一格是一天。格子越深，那天写得越多；格子里的小字是农历、节气或节日，橙色边框是今天。
+最近两个月的提交记录，每一格是一天。七个色阶，颜色越浓那天写得越多；格子里的小字是农历、节气或节日，橙色边框是今天。
 
-*The two most recent months, one cell per day. The darker the cell, the more got done that day. Solar terms and festivals are written inside the cell, and the orange outline marks today.*
+*The two most recent months, one cell per day, in seven steps of intensity. The heavier the colour, the more got done that day. Solar terms and festivals are written inside the cell, and the orange outline marks today.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/calendar-dark.svg">
